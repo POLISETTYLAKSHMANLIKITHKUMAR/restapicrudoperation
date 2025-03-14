@@ -1,1 +1,1 @@
-# restapicrudoperation
+A REST API CRUD operation ⚙️ enables clients to **Create** (POST ✨), **Read** (GET 📖), **Update** (PUT/PATCH 🔄), and **Delete** (DELETE 🗑️) resources over HTTP. It follows RESTful principles 🌍, ensuring stateless communication between client and server. CRUD operations are essential for managing data efficiently in web applications 🚀.
